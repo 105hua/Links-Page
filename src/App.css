@@ -83,3 +83,32 @@ html {
 .click-here-link{
   color: white;
 }
+
+/* About Me Card Styles */
+.aboutme-base-text{
+  text-align: center;
+  color: white;
+  font-family: "Roboto Mono", sans-serif;
+}
+
+.aboutme-paragraph{
+  font-size: 1rem;
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.aboutme-thankyou{
+  margin-top: 1.5rem;
+}
+
+.aboutme-backbutton{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5rem;
+  width: 20%;
+  border-radius: 24px;
+  border: none;
+  background-color: white;
+  font-family: "Roboto Mono", sans-serif;
+}
